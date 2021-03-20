@@ -1,0 +1,54 @@
+* {
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+#buttons {
+  margin-left: 450px;
+  margin-top: 100px;
+}
+img {
+  vertical-align: bottom;
+}
+button {
+  width: 12%;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 20px;
+  /* margin-top: 200px; */
+  border-radius: 5%;
+  /* height: 20%; */
+  border: none;
+  font-size: 18px;
+  outline: none;
+}
+button:hover {
+  cursor: pointer;
+}
+#start {
+  background-color: #b6fdff;
+}
+
+#stop {
+  background-color: #fd5c63;
+}
+
+#reset {
+  /* background-color: #afffba; */
+  background-color: #c5c5c5;
+}
+
+h2 {
+  font-size: 82px;
+  margin-left: 440px;
+  margin-top: 100px;
+}
+
+#watch {
+  margin-left: 1000px;
+}
+
+h3{
+  color: #fed049;
+}
